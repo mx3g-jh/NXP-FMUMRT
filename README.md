@@ -1,4 +1,8 @@
 # NXP-FMUMRT, MR-FMURT6, MR-VMU-RT117x
+# Update Feb-17 2025 MR-VMU-RT1176 is the production version and files on https://www.nxp.com/MR-VMURT1176 should be used as the reference
+# Update Feb-17 2025 Pre-Production MR-VMU-IMU design is uploaded here. This is undergoing validatation, but we've been requested to allow access to the design ASAP.
+
+
 This is an open reference design for a Pixhawk V5X (i.MX RT1062) / V6X (i.MX RT117x) flight controller. 
 
 Note1: For MR-FMURT6 based on NXP i.MX RT1062: This design is NOT being produced in volume, and we will produce MR-VMU-RT1176 using i.MX RT1176 MCU instead.
